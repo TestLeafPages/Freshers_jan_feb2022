@@ -1,0 +1,246 @@
+
+Syntax for Class;
+
+AccessModifier/AccessSpecifiers  classkeyword classname
+public  class Car
+
+Syntax for Datatype:
+Datatype variableName =value;
+
+int seatingCapacity=5;
+
+Syntax for objectName;
+ClassName obj=new Classname();
+Mobile  mob=new Mobile();
+
+
+Syntax for methodName
+AccessModifier returntype methodName(){
+
+}
+
+
+public void addTwoNumbers(){
+---------------------
+}
+
+
+Assignment:
+1.Create a Car class
+2.create 3methods for this class
+e.x
+applyBreak()
+applyGear()
+switchOnAc()
+applyAcclerate()
+create object and excute for same class
+
+create a MyCar class and create object for existing class and excute
+
+2.Mobile
+  sendMessage()
+  shareDocument()
+  call()
+
+create a new package mobile
+create MyMobile
+
+
+Mobile class name
+
+mobileBrand
+mobileNumber
+mobileModel
+isCharged
+mobileRange
+mobileFrequency
+
+               Data types
+               1.Premitive datatype
+               2.non-Premitive datatype
+
+Premitive datatype:
+int 
+float
+long
+douoble
+short
+byte
+boolean
+char
+
+non-Premitive datatype
+String 
+Arrays
+
+      Day2-Agenda
+   Operator
+   Conditional statement
+
+Operator:
+ unary  --- one operand and one opearator
+ binary----two opeerand and one operator
+ tertiary--three operands and two operator
+
+
+Arithmatic operator:
++,-,/,%,*
+a+b=
+a,b operands
++ operator
+5+5=10
+5-5=0
+5/5=1
+4/2=2 que
+4%2=0 rem
+
++is operator 
++we using concatinate with two string
+System.out.println(name+val);
+
+
+Relational operator:
+a=5, b=10;
+<--lessthan
+>--greaterthan
+<=
+>=
+==
+!=
+a=5;
+a==b
+Logical operator:
+And --&&
+Or---||
+not-!
+
+a>b &&b>c
+
+Conditional statement:
+if statement
+syntax;
+if(condition){
+----------------
+}
+ 
+if else statement
+syntax;
+if(condition){
+----------------
+}
+else{
+-----
+}
+
+
+if else if (or) nested if statement
+syntax;
+if(condition){
+----------------
+}
+else if (condition){
+-----
+}
+else{
+-----------
+}
+
+
+
+Problem statement: Check if the number is positive or negative---------------------------------------------------------------Pseudocode:---------- 1. Initialize a number, say, int number= 100; 2. If a number is positive, print "The number is positive" If a number is negative, print "The number is negative" If it nether negative nor positive, print as "The given number is zero "
+
+
+
+
+
+
+ 
+
+Problem statement: Convert a negative number to positive number
+-----------------------------------------------Pseudocode: 
+1. Initialize an integer with a negative number like, int number = -40;2. Check if the number is a negative number Hint : any number that is lesser than zero is a negative number3. If so, convert the number to a positive numer
+
+
+Looping Statement:
+
+forloop
+syntax:
+for(initialization; condition;increment/decrement)
+for(int i=0;i<10;i++){
+---------
+}
+
+1st initialization
+2nd check condition
+3rd excution
+4 increment
+
+
+
+
+
+
+ https://github.com/TestLeafPages/SeleniumAssignments/blob/master/week1/day1/assignments/PrimeNumber.java
+https://github.com/TestLeafPages/SeleniumAssignments/blob/master/week1/day1/classroom/Factorial.java
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
