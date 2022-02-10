@@ -1,0 +1,38 @@
+                Array
+Array is a container to store multiple data of same data type
+(or)
+Array is a collection of similar data type
+ datatype;
+int[]---IntegerArray
+long[]----longArray
+short[]---shortArray
+byte[]---byteArray
+float[]---floatArray
+double[]---doubleArray
+char[]----characterArray
+String[]---StringArray
+
+how to initialize Array;
+Arrayliteral
+int[] number= {10,20,30,40,50};
+	
+using new keyword;
+String[] name=new String[5];
+
+Array property:
+1.max limit for array has to declared at the starting
+2.we can not change array size at run time
+3.each data in the array should have an index
+4.index start with 0, first data index always start with 0
+
+
+
+
+
+
+
+
+
+
+
+
